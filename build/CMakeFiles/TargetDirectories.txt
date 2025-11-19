@@ -1,0 +1,3 @@
+/home/szdani/ZH_deepsea/build/CMakeFiles/ZH_Base.dir
+/home/szdani/ZH_deepsea/build/CMakeFiles/edit_cache.dir
+/home/szdani/ZH_deepsea/build/CMakeFiles/rebuild_cache.dir
